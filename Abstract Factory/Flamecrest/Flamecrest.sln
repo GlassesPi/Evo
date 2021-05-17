@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flamecrest", "Flamecrest.csproj", "{AEF45B3B-FB0D-4446-B0BC-CA1D6635B950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF45B3B-FB0D-4446-B0BC-CA1D6635B950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF45B3B-FB0D-4446-B0BC-CA1D6635B950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF45B3B-FB0D-4446-B0BC-CA1D6635B950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF45B3B-FB0D-4446-B0BC-CA1D6635B950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97ABC605-6C54-4D39-A3EC-193475E34F23}
+	EndGlobalSection
+EndGlobal

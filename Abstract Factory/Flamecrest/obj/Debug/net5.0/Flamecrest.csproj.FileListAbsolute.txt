@@ -1,0 +1,16 @@
+E:\Repo\Evo\Abstract Factory\Flamecrest\bin\Debug\net5.0\Flamecrest.exe
+E:\Repo\Evo\Abstract Factory\Flamecrest\bin\Debug\net5.0\Flamecrest.deps.json
+E:\Repo\Evo\Abstract Factory\Flamecrest\bin\Debug\net5.0\Flamecrest.runtimeconfig.json
+E:\Repo\Evo\Abstract Factory\Flamecrest\bin\Debug\net5.0\Flamecrest.runtimeconfig.dev.json
+E:\Repo\Evo\Abstract Factory\Flamecrest\bin\Debug\net5.0\Flamecrest.dll
+E:\Repo\Evo\Abstract Factory\Flamecrest\bin\Debug\net5.0\ref\Flamecrest.dll
+E:\Repo\Evo\Abstract Factory\Flamecrest\bin\Debug\net5.0\Flamecrest.pdb
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\Flamecrest.csprojAssemblyReference.cache
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\Flamecrest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\Flamecrest.AssemblyInfoInputs.cache
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\Flamecrest.AssemblyInfo.cs
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\Flamecrest.csproj.CoreCompileInputs.cache
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\Flamecrest.dll
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\ref\Flamecrest.dll
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\Flamecrest.pdb
+E:\Repo\Evo\Abstract Factory\Flamecrest\obj\Debug\net5.0\Flamecrest.genruntimeconfig.cache
