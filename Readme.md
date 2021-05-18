@@ -10,6 +10,6 @@
 ## ⚓ Factory Method
 
 - Type: *Creational*
-- Source: *[Flamecrest](<https://github.com/GlassesPi/Evo/tree/master/Abstract%20Factory/Flamecrest>) (.NET)*
+- Source: *[Flamecrest](<https://github.com/GlassesPi/Evo/tree/master/Factory%20Method/Flamecrest>) (.NET)*
 
 ---
